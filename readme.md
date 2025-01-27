@@ -9,11 +9,8 @@ Aqui estão algumas das melhores características do projeto:
 
 -   Soluções para problemas de algoritmos diários
 -   Prática com JavaScript
--   Queues
--   Stack
 -   Resolução de problemas no LeetCode
 -   Desafio para melhorar a lógica e as habilidades de programação
-
 
 ## 🛠️ Installation Steps
 
